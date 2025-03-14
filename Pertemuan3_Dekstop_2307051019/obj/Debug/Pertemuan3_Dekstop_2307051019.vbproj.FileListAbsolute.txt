@@ -10,3 +10,7 @@ C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_D
 C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.pdb
 C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form2.resources
 C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form3.resources
+C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form4.resources
+C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form5.resources
+C:\Users\MyBook Hype\OneDrive\Documents\Visual Studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form6.resources
+C:\Users\MyBook Hype\onedrive\documents\visual studio 2013\Projects\Pertemuan3_Dekstop_2307051019\Pertemuan3_Dekstop_2307051019\obj\Debug\Pertemuan3_Dekstop_2307051019.Form7.resources
